@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CuresSpider.Prays
+namespace CursedSpider.Prays
 {
-    class Announcement
+    class Announcement: Pray
     {
     }
 }

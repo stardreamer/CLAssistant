@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CursedSpider
 {
-    public class Class1
+    public class Spider
     {
+
     }
 }

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CuresSpider.Sources
+namespace CursedSpider.Sources
 {
-    class VkSource
+    internal class VkSource: Source
     {
+
     }
 }
