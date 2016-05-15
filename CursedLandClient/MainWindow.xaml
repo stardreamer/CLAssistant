@@ -18,6 +18,7 @@
 
         <Menu Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
             <MenuItem Header="Файл"/>
+            <MenuItem Header="Интеграция"/>
             <MenuItem Header="Справка">
                 <MenuItem Header="О программе"/>
             </MenuItem>
